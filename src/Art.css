@@ -1,0 +1,6 @@
+#Art{
+    display:flex;
+    flex-direction: row;
+    width : fit-content;
+    gap : 15px;
+}
