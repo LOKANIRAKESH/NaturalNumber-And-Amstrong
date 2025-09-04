@@ -1,7 +1,7 @@
 import Validation from './Validation.jsx';
 import {useState} from 'react';
 import Button from './Button.jsx';
-import './inputs.css';
+import './Inputs.css';
 import './Art.css';
 function App()
 {
